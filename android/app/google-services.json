@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "849040435198",
+    "project_id": "chatapp-6da75",
+    "storage_bucket": "chatapp-6da75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849040435198:android:9936bbfc37c3163f1a82af",
+        "android_client_info": {
+          "package_name": "com.fypdigitalcard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849040435198-47hjj6ofbmanf7ktu8m2hl2468o509pe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fypdigitalcard",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "849040435198-m9qi2fglpa8jv508m4dejdokukfo820c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt5QtNlsrTRp_Gx7dxpWpaaOFjbahTLPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849040435198-m9qi2fglpa8jv508m4dejdokukfo820c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
